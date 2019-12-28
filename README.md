@@ -1,4 +1,4 @@
 ## React  
 
-Basic React Starter Kit
+Kevin's Basic React Starter Kit
 
